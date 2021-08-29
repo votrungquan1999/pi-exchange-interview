@@ -1,0 +1,6 @@
+{
+  "from": "abc@gmail.com",
+  "subject": "this is subject",
+  "mimeType": "text/plain",
+  "body": "Hi"
+}
